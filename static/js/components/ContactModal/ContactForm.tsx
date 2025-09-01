@@ -22,7 +22,7 @@ const ContactForm: React.FC<PropsContactForm> = ({ toggleModal }) => {
           <div className="md:w-10/12 h-[calc(100vh - 16px)] m-4 md:h-[80vh] bg-base absolute left-0 top-0 bottom-0 right-0 md:m-auto shadow-csShadow rounded-lg flex flex-col md:flex-row gap-4">
             <div className="flex-1 sm:flex-[2]">
               <img
-                src={ShahidBg}
+                static={ShahidBg}
                 alt="About shahid"
                 className="h-full object-contain object-bottom sm:object-center"
               />

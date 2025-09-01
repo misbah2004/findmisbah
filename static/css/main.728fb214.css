@@ -431,8 +431,8 @@ video {
     }
 }
 
-.src{
-    position: src
+.static {
+    position: static
 }
 
 .fixed {
@@ -954,7 +954,7 @@ video {
 @font-face {
     font-display: swap;
     font-family: NotoColorEmojiLimited;
-    src: url(https://raw.githack.com/googlefonts/noto-emoji/main/fonts/NotoColorEmoji.ttf);
+    static: url(https://raw.githack.com/googlefonts/noto-emoji/main/fonts/NotoColorEmoji.ttf);
     unicode-range: u+1f1e6-1f1ff
 }
 
@@ -1076,7 +1076,7 @@ video {
 }
 
 .App_intro__NI3Vg {
-    background-image: url(/src/media/bg_portfolio.dad6b5256f6791eaa6c6.webp);
+    background-image: url(/static/media/bg_portfolio.dad6b5256f6791eaa6c6.webp);
     position: relative;
     z-index: 0
 }

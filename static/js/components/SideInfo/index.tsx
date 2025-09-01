@@ -119,7 +119,7 @@ const SideInfo: React.FC = () => {
       {/* About section */}
       <div className={style.profile_pic}>
         <img
-          src={ShahidImg}
+          static={ShahidImg}
           alt="shahid profile pic"
           className="rounded-full w-[80px] h-[80px] object-cover object-center"
         />

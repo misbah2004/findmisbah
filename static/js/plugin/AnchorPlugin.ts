@@ -1,7 +1,7 @@
 import {ScrollbarPlugin} from 'smooth-scrollbar';
 
 export class AnchorPlugin extends ScrollbarPlugin{
-    srcpluginName= 'anchor';
+    static pluginName= 'anchor';
     
     onHashChange = ()=>{
         this.jumpToHash(window.location.hash)

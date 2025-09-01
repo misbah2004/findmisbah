@@ -388,7 +388,7 @@ const ProjectCard: React.FC<TProject> = ({
       }}
     >
       <img
-        src={`../../assets/images/Projects/${projectImage}.png`}
+        static={`../../assets/images/Projects/${projectImage}.png`}
         alt={`Project name ${projectImage}`}
         className="w-full"
       />

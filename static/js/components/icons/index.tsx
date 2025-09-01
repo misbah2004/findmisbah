@@ -268,7 +268,7 @@ export function D3js() {
 }
 
 export function Nodejs() {
-  return <img src={NodejsIcon} alt="Node js" width="25" height="25" />;
+  return <img static={NodejsIcon} alt="Node js" width="25" height="25" />;
 }
 
 export function AngularIcon() {
