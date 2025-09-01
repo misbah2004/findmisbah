@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root {
+    --font-family-flag: 'NotoColorEmojiLimited', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+    --theme-color: #191923;
+    --theme-gradient-sec: linear-gradient(159deg, #2d2d3a 0, #2b2b35 100%);
+    /* --background:url(./assets/images/Projects/Kontrax.png) no-repeat,
+        linear-gradient(to bottom, rgba(25, 25, 35, 0.9), rgba(32, 32, 42, 0.9)),
+        url(./assets/images/Projects/Kontrax.png) no-repeat; */
+}
+
+@font-face {
+    font-family: NotoColorEmojiLimited;
+    unicode-range: U+1F1E6-1F1FF;
+    src: url(https://raw.githack.com/googlefonts/noto-emoji/main/fonts/NotoColorEmoji.ttf);
+    font-display: swap;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.flag_font {
+    font-family: var(--font-family-flag);
+}
+
+.scrollbar-track {
+    display: none !important;
+}
