@@ -125,11 +125,11 @@ const SideInfo: React.FC = () => {
         />
         <h1 className="my-2 text-sm">Muhammad Misbah Ul Hassan</h1>
         <p className="text-gray text-xs">
-          Fullstack Developer
+          FrontEnd Developer
           <br />
           <span className="text-secondary">Javascript</span> |{' '}
           <span className="text-secondary">React</span> |{' '}
-          <span className="text-secondary">Node</span> |{' '}
+          <span className="text-secondary">Next</span> |{' '}
           <span className="text-secondary">PostgreSQL</span>
         </p>
       </div>

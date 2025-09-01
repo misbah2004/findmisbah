@@ -31297,7 +31297,7 @@
                   (0, se.jsxs)("p", {
                     className: "text-gray text-xs",
                     children: [
-                      "Fullstack Developer",
+                      "FrontEnd Developer",
                       (0, se.jsx)("br", {}),
                       (0, se.jsx)("span", {
                         className: "text-secondary",
@@ -31313,13 +31313,13 @@
                       " ",
                       (0, se.jsx)("span", {
                         className: "text-secondary",
-                        children: "Node",
+                        children: "Next",
                       }),
                       " |",
                       " ",
                       (0, se.jsx)("span", {
                         className: "text-secondary",
-                        children: "PostgreSQL",
+                        children: "Tailwind",
                       }),
                     ],
                   }),
@@ -31597,16 +31597,19 @@
               (0, se.jsxs)("p", {
                 className: "".concat($o, " p-4"),
                 children: [
-                  "I'm a passionate software engineer with a keen eye for detail, and a drive to create elegant, efficient, and user-friendly solutions. With over 5+ years of experience in web development, I've honed my skills in a variety of technologies, including ReactJs, Nodejs,Typescript, Javascript es6+ and MongoDb.",
+                  "I'm a passionate Frontend Developer with 1 year of professional experience, a keen eye for detail, and a drive to build clean, responsive, and user-friendly web interfaces. With solid expertise in HTML, CSS, and JavaScript (ES6+), I focus on creating seamless digital experiences that combine performance with elegant design.",
                   (0, se.jsx)("br", {}),
                   (0, se.jsx)("br", {}),
-                  "I take pride in staying up-to-date with the latest trends and advancements in the field, and I'm always looking for new and innovative ways to tackle complex problems. My expertise ranges from front-end design and development to back-end server-side programming, and I've worked on projects ranging from small-scale web applications to large enterprise solutions.",
+                  "My skills include working with modern JavaScript frameworks and libraries, as well as mastering CSS frameworks like Tailwind CSS and Bootstrap to develop responsive and visually engaging layouts. Over the past year, I’ve successfully built and contributed to projects where I translated ideas into intuitive, functional, and interactive web applications.",
                   (0, se.jsx)("br", {}),
                   (0, se.jsx)("br", {}),
-                  "In this portfolio, you'll find a selection of my recent projects and contributions, which showcase my skills in areas such as Domain Knowledge and work experience on Vending Controllers and Vending Machines, as well as my ability to work collaboratively with other developers and stakeholders. I invite you to take a look around, and feel free to reach out to me with any questions or inquiries.",
+                  "I stay updated with the latest trends in frontend development and constantly refine my skills to deliver modern solutions. Collaboration is central to my approach—I enjoy working with designers, developers, and stakeholders to bring projects from concept to reality.",
                   (0, se.jsx)("br", {}),
                   (0, se.jsx)("br", {}),
-                  "Thank you for your interest, and I look forward to connecting with you soon!",
+                  "In this portfolio, you’ll find a selection of my projects that highlight my ability to design and develop user-friendly, responsive, and dynamic interfaces.",
+                  (0, se.jsx)("br", {}),
+                  (0, se.jsx)("br", {}),
+                  "Thank you for visiting, and I’d be happy to connect if you’d like to discuss opportunities, projects, or collaborations.",
                 ],
               }),
             ],
@@ -32465,7 +32468,7 @@
                           }),
                           (0, se.jsx)("img", {
                             src: Io,
-                            alt: "what is fullstack developer",
+                            alt: "what is FrontEnd Developer",
                             className:
                               "absolute max-w-xs right-0 -top-7 z-[2] hidden xl:block",
                           }),

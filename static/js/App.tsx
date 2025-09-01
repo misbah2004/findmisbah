@@ -70,7 +70,7 @@ function App() {
             </a>
             <img
               src={ThumbsUp}
-              alt="what is fullstack developer"
+              alt="what is FrontEnd Developer"
               className="absolute max-w-xs right-0 -top-7 z-[2] hidden xl:block"
             />
           </div>
