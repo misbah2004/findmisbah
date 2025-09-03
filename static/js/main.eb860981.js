@@ -26214,7 +26214,7 @@
     }),
     (function () {
       var e = {},
-        t = "findshahid:";
+        t = "findMisbah:";
       n.l = function (r, a, o, i) {
         if (e[r]) e[r].push(a);
         else {
@@ -26332,7 +26332,7 @@
           for (t && t(r); c < i.length; c++)
             (o = i[c]), n.o(e, o) && e[o] && e[o][0](), (e[o] = 0);
         },
-        r = (self.webpackChunkfindshahid = self.webpackChunkfindshahid || []);
+        r = (self.webpackChunkfindMisbah = self.webpackChunkfindMisbah || []);
       r.forEach(t.bind(null, 0)), (r.push = t.bind(null, r.push.bind(r)));
     })(),
     (function () {
@@ -28216,7 +28216,7 @@
           );
         },
         Pe = "style_modal__B5ee6",
-        Ae = n.p + "static/media/about-shahid.2e376b1af904b7264c62.png",
+        Ae = n.p + "static/media/about-Misbah.2e376b1af904b7264c62.png",
         Ie = function (e) {
           return (
             (function (e) {
@@ -30618,7 +30618,7 @@
                         className: "flex-1 sm:flex-[2]",
                         children: (0, se.jsx)("img", {
                           src: Ae,
-                          alt: "About shahid",
+                          alt: "About Misbah",
                           className:
                             "h-full object-contain object-bottom sm:object-center",
                         }),
@@ -30632,7 +30632,7 @@
                               children: [
                                 "Thanks for your time ",
                                 (0, se.jsx)("br", {}),
-                                "Shahid will contact you shortly!",
+                                "Misbah will contact you shortly!",
                               ],
                             })
                           : (0, se.jsxs)(se.Fragment, {
@@ -30640,7 +30640,7 @@
                                 (0, se.jsx)("h1", {
                                   className:
                                     "text-lg text-white font-bold tracking-wide mb-4",
-                                  children: "Contact Shahid!",
+                                  children: "Contact Misbah!",
                                 }),
                                 (0, se.jsx)(Qa, {
                                   initialValues: {
@@ -30843,7 +30843,7 @@
             }),
           });
         },
-        fo = n.p + "static/media/shahid.d7c380013fd8ec7b793f.jpg",
+        fo = n.p + "static/media/Misbah.d7c380013fd8ec7b793f.jpg",
         ho = function (e) {
           var t = e.title,
             n = e.skills,
@@ -31283,7 +31283,7 @@
                 children: [
                   (0, se.jsx)("img", {
                     src: fo,
-                    alt: "shahid profile pic",
+                    alt: "Misbah profile pic",
                     className:
                       "rounded-full w-[80px] h-[80px] object-cover object-center",
                   }),
@@ -31358,7 +31358,7 @@
                     children: [
                       (0, se.jsx)("li", {
                         children: (0, se.jsx)("a", {
-                          href: "https://github.com/Muhammad-Shahid-Jamal",
+                          href: "https://github.com/Muhammad-Misbah-Jamal",
                           target: "_blank",
                           rel: "noreferrer",
                           children: (0, se.jsx)(bo, {}),
@@ -31366,7 +31366,7 @@
                       }),
                       (0, se.jsx)("li", {
                         children: (0, se.jsx)("a", {
-                          href: "https://www.linkedin.com/in/m-shahid-jamal",
+                          href: "https://www.linkedin.com/in/m-Misbah-jamal",
                           target: "_blank",
                           rel: "noreferrer",
                           children: (0, se.jsx)(xo, {}),
@@ -31374,7 +31374,7 @@
                       }),
                       (0, se.jsx)("li", {
                         children: (0, se.jsx)("a", {
-                          href: "https://twitter.com/Shahid_jamal034",
+                          href: "https://twitter.com/Misbah_jamal034",
                           target: "_blank",
                           rel: "noreferrer",
                           children: (0, se.jsx)(wo, {}),
@@ -31390,7 +31390,7 @@
                       }),
                       (0, se.jsx)("li", {
                         children: (0, se.jsx)("a", {
-                          href: "https://www.instagram.com/mshahid.jamal",
+                          href: "https://www.instagram.com/mMisbah.jamal",
                           target: "_blank",
                           rel: "noreferrer",
                           children: (0, se.jsx)(So, {}),
@@ -32125,7 +32125,7 @@
                 }),
               }),
               (0, se.jsx)(ci.Z, {
-                username: "muhammad-shahid-jamal",
+                username: "muhammad-Misbah-jamal",
               }),
             ],
           });
@@ -32539,7 +32539,7 @@
                 n(e), r(e), a(e), o(e), i(e);
               });
         };
-      r.createRoot(document.getElementById("findshahid_portfolio")).render(
+      r.createRoot(document.getElementById("findMisbah_portfolio")).render(
         (0, se.jsx)(t.StrictMode, {
           children: (0, se.jsx)(ki, {}),
         })
